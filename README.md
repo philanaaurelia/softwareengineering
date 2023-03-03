@@ -6,7 +6,7 @@ If a link happens to be more than 5 years old, but still relevant, you will see 
 # 1. Interviewing
 ## Mock Videos
 * [Product of Array](https://www.youtube.com/watch?v=riBWq1DvVb8)
-* [Buy and Sell Stocks](https://www.youtube.com/watch?v=riBWq1DvVb8)
+* [Buy and Sell Stocks](https://www.youtube.com/watch?v=riBWq1DvVb8) - I love the feedback given in this video
 ## Practice Questions
 * TBD
 
