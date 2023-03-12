@@ -12,7 +12,7 @@ If a link happens to be more than 5 years old, but still relevant, you will see 
 * TBD
 
 ## Interview Guides
-* TBD
+* [Welcome to the Coding Interview - You Suck](https://docs.google.com/document/d/1eKirumpmwDWTtKCJKn2HuoQ2NavEfR41whmTyaQcio4/edit?usp=sharing) - Hands down my favorite guide. The mistakes section is SO ON POINT!
 
 # 2. Learning
 ## Helpful Sites
