@@ -21,5 +21,5 @@ If a link happens to be more than 5 years old, but still relevant, you will see 
 * [Geeks for Geeks](https://www.geeksforgeeks.org/) - great for understanding when and why to use one data structure over the other
 
 # 3. Other
-* TBD
+* [Tech Interview Handbook - Study CheatSheet](https://www.techinterviewhandbook.org/algorithms/array/) - great for understanding the pros and cons of data structures
 
