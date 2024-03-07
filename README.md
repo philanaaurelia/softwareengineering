@@ -9,7 +9,7 @@ If a link happens to be more than 5 years old, but still relevant, you will see 
 * [Buy and Sell Stocks](https://www.youtube.com/watch?v=riBWq1DvVb8) - I love the feedback given in this video
 * [CS Dojo - YouTube Video Playlist](https://www.youtube.com/playlist?list=PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev) - great breakdown of problems
 ## Practice Questions
-* TBD
+* [OpenKattis](https://open.kattis.com/problems) - a true wide range of problems with actual 'easy' problems
 
 ## Interview Guides
 * [Welcome to the Coding Interview - You Suck](https://docs.google.com/document/d/1eKirumpmwDWTtKCJKn2HuoQ2NavEfR41whmTyaQcio4/edit?usp=sharing) - Hands down my favorite guide. The mistakes section is SO ON POINT!
